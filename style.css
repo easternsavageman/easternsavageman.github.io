@@ -5,7 +5,7 @@ h1 {
   color: white;
 }
 p {
-  font-size: 10px;
+  font-size: 25px;
   font-family: sans-serif;
   text-align: center;
   color: white;
@@ -19,7 +19,7 @@ body {
   padding: 10px;
   display: grid;
   grid-template-columns: 1fr 3px 1fr;
-  font-family: "Fira Sans", sans-serif;
+  font-family: sans-serif;
   color: #ffffff;
 }
 
